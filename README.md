@@ -48,6 +48,5 @@ Currently a **Quantitative Researcher at Pashupati Capital Services**, I focus o
 ---
 
 ### 📫 Let's Connect
-* **LinkedIn:** [/in/shamil-kv](https://www.linkedin.com/in/shamil-kv/)
-* **YouTube:** *The Intuitive Quant* (Explaining finance through math)
+* **LinkedIn:** [/in/shamil-kv](www.linkedin.com/in/shamil-k-v-2164141b4)
 * **Email:** [shamilkveld@gmail.com](mailto:shamilkveld@gmail.com)
