@@ -1,11 +1,11 @@
-# 👋 I'm Shamil K V
+# Hi, I'm Shamil K V
 
 ### **Quantitative Researcher | IISER Bhopal Alum**
 *Quantitative analysis at the intersection of Stochastic Control, Financial Math, and Data Science.*
 
 ---
 
-### 🚀 Professional Snapshot
+### Professional Snapshot
 Currently a **Quantitative Researcher at Pashupati Capital Services**, I focus on developing systematic trading strategies for NSE derivatives and building high-performance research infrastructure.
 
 * **Current Role:** Quantitative Researcher (Mumbai, India).
@@ -16,7 +16,7 @@ Currently a **Quantitative Researcher at Pashupati Capital Services**, I focus o
 
 ---
 
-### 🛠️ Technical 
+### Technical 
 | Category | Skills |
 | :--- | :--- |
 | **Quant Finance** | Black-Scholes, Monte Carlo Simulation, Mean-Variance Optimization, VaR/CVaR. |
@@ -26,7 +26,7 @@ Currently a **Quantitative Researcher at Pashupati Capital Services**, I focus o
 
 ---
 
-### 🧪 Featured Projects
+### Featured Projects
 
 #### **[Stochastic Optimal Control in Finance](https://github.com/shamilkv-623)** *(Master's Thesis)*
 * Proved discrete-time Markov chain approximations for continuous-time portfolio optimization problems.
